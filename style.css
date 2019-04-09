@@ -77,3 +77,24 @@ section div{
         color:  rgb(246, 142, 44);
         font-weight: 900;
     }
+    footer{
+        width: 98.8vw; 
+        height: 100px;
+        background-color: aqua;
+        display: flex; 
+        justify-content: center;
+        align-items: center;
+
+    }
+    
+    
+    footer div{
+    width: 100px;
+display: flex; 
+    justify-content: space-between;
+        
+}
+        footer div img { 
+            width: 20px; 
+            height: 20px;
+        }
