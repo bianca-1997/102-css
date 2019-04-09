@@ -22,6 +22,7 @@ nav a:first-child{
 nav a:hover{
     color: rgb(246, 142, 44);
 text-decoration: underline;
+transition: 2s; 
 
 }
 nav a:nth-child(1){
@@ -30,8 +31,13 @@ nav a:nth-child(1){
     font-weight: 900;
 
 }
-section {
+header{
+    height: 600px;
+    background-image: url(imagens/banner2.jpg);
+    background-size: cover;  
+
     
+
 }
 
 section { 
